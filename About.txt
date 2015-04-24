@@ -1,5 +1,7 @@
-### Welcome to your project!
+#The Dynamo Primer V1
 
-- Brush up on Markdown: http://daringfireball.net/projects/markdown/basics
-- Learn about Penflip: [penflip.com/help](http://www.penflip.com/help)
-- Talk to a person: support@penflip.com
+- This is the working Version
+- Project Lead - gakos@modelab.is
+
+## This is a H1 Title
+- item
