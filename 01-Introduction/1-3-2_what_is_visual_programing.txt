@@ -1,6 +1,18 @@
-## 1.2 Preface
+###1.3.2 What is Visual Programming?
 
 _Introduction Text_
 
-1. Item
-1. Item
+##### 1.3.2.1 Programming Defined
+
+##### 1.3.2.2 Visual Programming Defined
+
+##### 1.3.2.3 Key Concepts
+1. Numbers
+2. Constants
+3. Parameters
+4. Operators
+5. Functions
+
+##### 1.3.2.4 The Graph
+1. Elements
+2. Flow
