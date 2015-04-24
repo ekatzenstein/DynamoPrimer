@@ -13,3 +13,4 @@ About.txt
 02-HelloDynamo/2-3-1_the_application.txt
 02-HelloDynamo/2-3-2_the_workflow.txt
 02-HelloDynamo/2-3-3_file_types_and_management.txt
+images/dynamo_logo - 2.png
