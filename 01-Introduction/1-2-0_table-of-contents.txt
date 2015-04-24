@@ -1,6 +1,5 @@
-## 1.2 Preface
+#### 1.2.0 Table of Contents
 
 _Introduction Text_
 
-1. Item
-1. Item
+
