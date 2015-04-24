@@ -1,5 +1,5 @@
 #The Dynamo Primer V1
-
+![](images/dynamo_logo.png)
 - This is the working Version
 - Project Lead - gakos@modelab.is
 
