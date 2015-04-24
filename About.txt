@@ -3,5 +3,7 @@
 - This is the working Version
 - Project Lead - gakos@modelab.is
 
-## This is a H1 Title.....here
-- item
+###Info to clone in git
+For Windows, type this in your browser:
+
+github-windows://openRepo/https://www.penflip.com/gakos/dynamo-primer.git
