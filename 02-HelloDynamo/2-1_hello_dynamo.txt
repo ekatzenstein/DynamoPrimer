@@ -1,6 +1,7 @@
 ## 1.1 Preface
-
+![Dynamo Logo](images/dynamo_logo.png)
 _Introduction Text_
+
 
 1. Welcome
 1. About this Primer
