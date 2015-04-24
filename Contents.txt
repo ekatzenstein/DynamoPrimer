@@ -1,7 +1,4 @@
-> These files will be included in your book:
-
 About.txt
-
 01-Introduction/1-1_introduction.txt
 01-Introduction/1-1-0_preface.txt
 01-Introduction/1-2-0_table-of-contents.txt
@@ -10,8 +7,6 @@ About.txt
 01-Introduction/1-3-2_what_is_visual_programing.txt
 01-Introduction/1-3-3_the_quick_start_guide.txt
 01-Introduction/1-3-4_dynamo_in_action.txt
-01-Introduction/images
-
 02-HelloDynamo/2-1_hello_dynamo.txt
 02-HelloDynamo/2-1-0_dynamo_platform.txt
 02-HelloDynamo/2-2-0_launching_dynamo.txt
@@ -19,4 +14,3 @@ About.txt
 02-HelloDynamo/2-3-1_the_application.txt
 02-HelloDynamo/2-3-2_the_workflow.txt
 02-HelloDynamo/2-3-3_file_types_and_management.txt
-02-HelloDynamo/images
